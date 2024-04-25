@@ -1,0 +1,118 @@
+C:\Users\Intel\Desktop\proje\proje\bin\Debug\proje.exe.config
+C:\Users\Intel\Desktop\proje\proje\bin\Debug\proje.exe
+C:\Users\Intel\Desktop\proje\proje\bin\Debug\proje.pdb
+C:\Users\Intel\Desktop\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\Intel\Desktop\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Intel\Desktop\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+C:\Users\Intel\Desktop\proje\proje\obj\Debug\proje.exe
+C:\Users\Intel\Desktop\proje\proje\obj\Debug\proje.pdb
+C:\Users\Intel\Desktop\proje\proje\obj\Debug\proje.yetkilipaneli.resources
+C:\Users\Intel\Desktop\proje\proje\obj\Debug\proje.kullanici.resources
+C:\Users\Intel\Desktop\proje\proje\obj\Debug\proje.müsteri.resources
+C:\Users\Intel\Desktop\proje\proje\obj\Debug\proje.oda.resources
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\bin\Debug\proje.exe.config
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.exe
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.pdb
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\bin\Debug\proje.exe
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\bin\Debug\proje.pdb
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.kullanici.resources
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.müsteri.resources
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.oda.resources
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.yetkilipaneli.resources
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\bin\Debug\otel2.mdb
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.anasayfa.resources
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.odakayit.resources
+C:\Users\Intel\Desktop\PROJE1,\proje\proje\obj\Debug\proje.personal.resources
+I:\PROJE1,\proje\proje\bin\Debug\proje.exe.config
+I:\PROJE1,\proje\proje\obj\Debug\proje.exe
+I:\PROJE1,\proje\proje\obj\Debug\proje.pdb
+I:\PROJE1,\proje\proje\bin\Debug\otel2.mdb
+I:\PROJE1,\proje\proje\bin\Debug\proje.exe
+I:\PROJE1,\proje\proje\bin\Debug\proje.pdb
+I:\PROJE1,\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+I:\PROJE1,\proje\proje\obj\Debug\proje.anasayfa.resources
+I:\PROJE1,\proje\proje\obj\Debug\proje.Form1.resources
+I:\PROJE1,\proje\proje\obj\Debug\proje.kullanici.resources
+I:\PROJE1,\proje\proje\obj\Debug\proje.müsteri.resources
+I:\PROJE1,\proje\proje\obj\Debug\proje.oda.resources
+I:\PROJE1,\proje\proje\obj\Debug\proje.odakayit.resources
+I:\PROJE1,\proje\proje\obj\Debug\proje.personal.resources
+I:\PROJE1,\proje\proje\obj\Debug\proje.Properties.Resources.resources
+I:\PROJE1,\proje\proje\obj\Debug\proje.yetkilipaneli.resources
+I:\PROJE1,\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+G:\PROJE1,\proje\proje\bin\Debug\proje.exe.config
+G:\PROJE1,\proje\proje\obj\Debug\proje.exe
+G:\PROJE1,\proje\proje\obj\Debug\proje.pdb
+G:\PROJE1,\proje\proje\bin\Debug\otel2.mdb
+G:\PROJE1,\proje\proje\bin\Debug\proje.exe
+G:\PROJE1,\proje\proje\bin\Debug\proje.pdb
+G:\PROJE1,\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+G:\PROJE1,\proje\proje\obj\Debug\proje.anasayfa.resources
+G:\PROJE1,\proje\proje\obj\Debug\proje.Form1.resources
+G:\PROJE1,\proje\proje\obj\Debug\proje.kullanici.resources
+G:\PROJE1,\proje\proje\obj\Debug\proje.müsteri.resources
+G:\PROJE1,\proje\proje\obj\Debug\proje.oda.resources
+G:\PROJE1,\proje\proje\obj\Debug\proje.odakayit.resources
+G:\PROJE1,\proje\proje\obj\Debug\proje.personal.resources
+G:\PROJE1,\proje\proje\obj\Debug\proje.Properties.Resources.resources
+G:\PROJE1,\proje\proje\obj\Debug\proje.yetkilipaneli.resources
+G:\PROJE1,\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\bin\Debug\otel2.mdb
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\bin\Debug\proje.exe.config
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\bin\Debug\proje.exe
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\bin\Debug\proje.pdb
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.anasayfa.resources
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.kullanici.resources
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.müsteri.resources
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.oda.resources
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.odakayit.resources
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.personal.resources
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.yetkilipaneli.resources
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.exe
+C:\Users\PC\Desktop\ErayAşinaYazılımProjeleri\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.pdb
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\bin\Debug\otel2.mdb
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\bin\Debug\proje.exe.config
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\bin\Debug\proje.exe
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\bin\Debug\proje.pdb
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.anasayfa.resources
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.kullanici.resources
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.müsteri.resources
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.oda.resources
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.odakayit.resources
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.personal.resources
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.yetkilipaneli.resources
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.exe
+C:\Users\PC\Desktop\Aşina\VSC#\OtelOtomasyonu\proje\proje\obj\Debug\proje.pdb
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\bin\Debug\otel2.mdb
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\bin\Debug\proje.exe.config
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\bin\Debug\proje.exe
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\bin\Debug\proje.pdb
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.anasayfa.resources
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.kullanici.resources
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.müsteri.resources
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.oda.resources
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.odakayit.resources
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.personal.resources
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.yetkilipaneli.resources
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.exe
+C:\Users\PC\Desktop\Program Geliştirme\C# Deskopt Application\OtelOtomasyonu\proje\proje\obj\Debug\proje.pdb
